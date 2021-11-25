@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @zikaloai71
+- 👋 Hi, I’m zakaria loai
 - 👀 I’m interested in web design.
 - 🌱 I’m currently learning javascript.
 - 💞️ I’m looking to collaborate on ...
