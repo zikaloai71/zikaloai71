@@ -1,6 +1,6 @@
 - 👋 Hi, I’m zakaria loai
 - 👀 I’m interested in web development.
-- 🌱 I’m currently learning jquery.
+- 🌱 I’m currently learning react.
 - 💞️ I’m looking to have internship in any software company.
 - 📫 How to reach me on my linkedin : https://www.linkedin.com/in/zakaria-loai-b00616216
 
