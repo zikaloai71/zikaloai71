@@ -13,11 +13,11 @@
 
 - 🔭 I’m also working on **Improve my old projects**
 
-- 💬 Ask me about **Javascript,React and almost everything realted to web development field**
+- 💬 Ask me about  **Javascript,React and almost everything realted to web development field**
 
 - 📫 How to reach me **ze.lo.moukhtar@el-eng.menofia.edu.eg**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1YFwcR-lr2aa_4hP4BsHVRQFx4_d1PV5_/view?usp=sharing](https://drive.google.com/file/d/1YFwcR-lr2aa_4hP4BsHVRQFx4_d1PV5_/view?usp=sharing)
+- 📄 Know about my experiences check my CV <a href="https://drive.google.com/file/d/1YFwcR-lr2aa_4hP4BsHVRQFx4_d1PV5_/view?usp=sharing">📜</a> 
 
 - ⚡ Fun fact **I was struggling with JS and almost not like it but now I love it like it was the love of my life**
 
