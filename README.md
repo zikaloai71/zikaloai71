@@ -17,15 +17,15 @@
 
 - 📫 How to reach me **ze.lo.moukhtar@el-eng.menofia.edu.eg**
 
-- 📄 Know about my experiences check my CV <a href="https://drive.google.com/file/d/1YFwcR-lr2aa_4hP4BsHVRQFx4_d1PV5_/view?usp=sharing">📜</a> 
+- 📄 Know more about my experiences check my CV <a href="https://drive.google.com/file/d/1YFwcR-lr2aa_4hP4BsHVRQFx4_d1PV5_/view?usp=sharing">  📜</a> 
 
 - ⚡ Fun fact **I was struggling with JS and almost not like it but now I love it like it was the love of my life**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/zika_loai71" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="zika_loai71" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/zakaria loai" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="zakaria loai" height="30" width="40" /></a>
-<a href="https://discord.gg/Zakaria Loai" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Zakaria Loai" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/zakaria-loai-b00616216/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="zakaria loai" height="30" width="40" /></a>
+<a href="https://discord.gg/2523" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Zakaria Loai" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
