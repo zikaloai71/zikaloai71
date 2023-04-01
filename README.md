@@ -10,7 +10,7 @@
 <p align="left"> <a href="https://twitter.com/zika_loai71" target="blank"><img src="https://img.shields.io/twitter/follow/zika_loai71?logo=twitter&style=for-the-badge" alt="zika_loai71" /></a> </p>
 
 - 🔭 I’m currently working on [AYN-market(project for my college 🏛)](https://github.com/FEE-Final-project/AYN-market)
-- 
+
 - 🔭 I’m also working on **Improve my old projects**
 
 - 🌱 I’m currently learning **GraphQL and Docker**
