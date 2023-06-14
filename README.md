@@ -17,7 +17,7 @@
 
 - 💬 Ask me about  **Javascript,React and almost everything realted to web development field**
 
-- 📫 How to reach me **ze.lo.moukhtar@el-eng.menofia.edu.eg**
+- 📫 How to reach me **zakarialoai71@gmail.com**
 
 - 📄 Know more about my experiences check my CV <a href="https://drive.google.com/file/d/1YFwcR-lr2aa_4hP4BsHVRQFx4_d1PV5_/view?usp=sharing">  📜</a> 
 
