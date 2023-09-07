@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm zakaria loai</h1>
-<h3 align="center">A passionate web developer who love learning new things in CS everyday</h3>
+<h1 align="center">Hi 👋, I'm Zakaria loai</h1>
+<h3 align="center">A passionate web developer who loves learning new things in CS everyday</h3>
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=zikaloai71&label=Profile%20views&color=0e75b6&style=flat" alt="zikaloai71" /> </p>
@@ -9,19 +9,19 @@
 
 <p align="left"> <a href="https://twitter.com/zika_loai71" target="blank"><img src="https://img.shields.io/twitter/follow/zika_loai71?logo=twitter&style=for-the-badge" alt="zika_loai71" /></a> </p>
 
-- 🔭 I’m currently working on [AYN-market(project for my college 🏛)](https://github.com/FEE-Final-project/AYN-market)
+- 🔭 I’m currently working on Noproata social media programming (freelance)
 
 - 🔭 I’m also working on **Improve my old projects**
 
-- 🌱 I’m currently learning **GraphQL and Docker**
+- 🌱 I’m currently learning **React Query**
 
-- 💬 Ask me about  **Javascript,React and almost everything realted to web development field**
+- 💬 Ask me about  **Javascript, React and almost everything related to the web development field**
 
 - 📫 How to reach me **zakarialoai71@gmail.com**
 
 - 📄 Know more about my experiences check my CV <a href="https://drive.google.com/file/d/1YFwcR-lr2aa_4hP4BsHVRQFx4_d1PV5_/view?usp=sharing">  📜</a> 
 
-- ⚡ Fun fact **I was struggling with JS and almost not like it but now I love it like it was the love of my life**
+- ⚡ Fun fact **I was struggling with JS and almost did not like it but now I love it like it was the love of my life**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
