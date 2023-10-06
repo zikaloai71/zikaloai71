@@ -37,9 +37,14 @@
 <a href="https://react-redux.js.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/reduxjs/redux/master/logo/logo-title-light.png" alt="redux" width="80" height="60"/></a> 
 </p>
 
-<!-- <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=zikaloai71&show_icons=true&locale=en&layout=compact" alt="zikaloai71" /></p>
+  <p>
+    <img
+      align="center"
+      src="https://github-readme-stats.vercel.app/api/top-langs?username=zikaloai71&show_icons=true&title_color=1b84c5&locale=en&layout=compact"
+      alt="zikaloai71"
+    />
+  </p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=zikaloai71&show_icons=true&locale=en" alt="zikaloai71" /></p> -->
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=zikaloai71&" alt="zikaloai71" /></p>
 
