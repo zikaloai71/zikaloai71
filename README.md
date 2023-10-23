@@ -7,7 +7,10 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"> <img src="https://github-profile-trophy.vercel.app/?username=zikaloai71" alt="zikaloai71" /> </a> </p>
 
-<p align="left"> <a href="https://twitter.com/zika_loai71" target="blank"><img src="https://img.shields.io/twitter/follow/zika_loai71?logo=twitter&style=for-the-badge" alt="zika_loai71" /></a> </p>
+<p align="left"> 
+  <a href="https://leetcode.com/zikaloai71/" target="blank"><img src="https://badges.peiyuan.ch/leetcode/zikaloai71/name" alt="zakaria loai leetcode profile" /></a>
+<!--    <a href="https://leetcode.com/zikaloai71/" target="blank"><img src="https://badges.peiyuan.ch/leetcode/zikaloai71/solved?difficulty=all" alt="zakaria loai leetcode profile" /></a> -->
+</p>
 
 - 🔭 I’m currently working on Noproata social media programming (freelance)
 
