@@ -16,7 +16,7 @@
 
 - 🔭 I’m also working on **Improve my old projects**
 
-- 🌱 I’m currently learning **React Query**
+- 🌱 I’m currently learning **Apollo Server and Client**
 
 - 💬 Ask me about  **Javascript, React and almost everything related to the web development field**
 
@@ -40,6 +40,11 @@
 <a href="https://react-redux.js.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/reduxjs/redux/master/logo/logo-title-light.png" alt="redux" width="80" height="60"/></a> 
 </p>
 
+<h3 align="left">My latest blogs ✏️</h3>
+<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@zikaloai/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@zikaloai/0" alt="Recent Article 0"> 
+<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@zikaloai/1"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@zikaloai/2" alt="Recent Article 1"> 
+<br>
+  
   <p>
     <img
       align="center"
@@ -49,7 +54,6 @@
   </p>
 
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=zikaloai71&" alt="zikaloai71" /></p>
 
 <!---
 zikaloai71/zikaloai71 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
