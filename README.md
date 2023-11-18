@@ -12,9 +12,9 @@
 <!--    <a href="https://leetcode.com/zikaloai71/" target="blank"><img src="https://badges.peiyuan.ch/leetcode/zikaloai71/solved?difficulty=all" alt="zakaria loai leetcode profile" /></a> -->
 </p>
 
-- 🔭 I’m currently working on Noproata social media programming (freelance)
-
-- 🔭 I’m also working on **Improve my old projects**
+- 🔭 I’m currently working on **Improve my old projects**
+  
+- 📘 I'm currently reading **Algorithms Unplugged** book and writing explanations on every lesson I read on <a href="https://medium.com/@zikaloai">**medium**</a> 
 
 - 🌱 I’m currently learning **Apollo Server and Client**
 
