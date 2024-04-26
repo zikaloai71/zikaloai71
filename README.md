@@ -12,11 +12,11 @@
 <!--    <a href="https://leetcode.com/zikaloai71/" target="blank"><img src="https://badges.peiyuan.ch/leetcode/zikaloai71/solved?difficulty=all" alt="zakaria loai leetcode profile" /></a> -->
 </p>
 
-- 🔭 I’m currently working on **Improve my old projects**
+- 🔭 I’m currently working on <a href="https://www.innovatek-swd.com/">**InnovaTek**</a>
   
 - 📘 I'm currently reading **Algorithms Unplugged** book and writing explanations on every lesson I read on <a href="https://medium.com/@zikaloai">**medium**</a> 
 
-- 🌱 I’m currently learning **Apollo Server and Client**
+- 🌱 I’m currently learning **AI Engineering Path in Scrimba platform**
 
 - 💬 Ask me about  **Javascript, React and almost everything related to the web development field**
 
