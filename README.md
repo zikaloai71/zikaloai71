@@ -16,7 +16,7 @@
   
 - 📘 I'm currently reading **Algorithms Unplugged** book and writing explanations on every lesson I read on <a href="https://medium.com/@zikaloai">**medium**</a> 
 
-- 🌱 I’m currently learning **AI Engineering Path in Scrimba platform**
+- 🌱 I’m currently learning **The Backend Developer Path in Scrimba platform**
 
 - 💬 Ask me about  **Javascript, React and almost everything related to the web development field**
 
