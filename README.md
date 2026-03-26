@@ -5,7 +5,6 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=zikaloai71&label=Profile%20views&color=0e75b6&style=flat" alt="zikaloai71" /> </p>
 
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"> <img src="https://github-profile-trophy.vercel.app/?username=zikaloai71" alt="zikaloai71" /> </a> </p>
 
 <p align="left"> 
   <a href="https://leetcode.com/zikaloai71/" target="blank"><img src="https://badges.peiyuan.ch/leetcode/zikaloai71/name" alt="zakaria loai leetcode profile" /></a>
@@ -40,11 +39,6 @@
 <a href="https://react-redux.js.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/reduxjs/redux/master/logo/logo-title-light.png" alt="redux" width="80" height="60"/></a> 
 </p>
 
-<h3 align="left">My latest blogs ✏️</h3>
-<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@zikaloai/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@zikaloai/0" alt="Recent Article 0"> 
-<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@zikaloai/1"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@zikaloai/2" alt="Recent Article 1"> 
-<br>
-  
   <p>
     <img
       align="center"
@@ -52,6 +46,14 @@
       alt="zikaloai71"
     />
   </p>
+
+<h3 align="left">My latest blogs ✏️</h3>
+<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@zikaloai/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@zikaloai/0" alt="Recent Article 0"> </a>
+  
+<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@zikaloai/1"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@zikaloai/2" alt="Recent Article 1"> </a>
+
+  
+
 
 
 
