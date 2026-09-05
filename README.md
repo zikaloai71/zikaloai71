@@ -26,7 +26,7 @@
 - 🕌 &nbsp;Currently freelancing on **Feh-Zikrokm**, an admin panel for a Quran mentorship platform
 - 🇦🇪 &nbsp;Worked remotely with a Dubai team since 2024 on donation and property platforms
 - 🧭 &nbsp;Spent a year as a **business analyst** on the same products — I read requirements differently now
-- 🌱 &nbsp;Currently learning **Next.js** and **Angular**
+- 🌱 &nbsp;Currently learning **Next.js** and **The Backend Developer Path on Scrimba**
 - ✍️ &nbsp;I write about JavaScript, React and algorithms on [Medium](https://medium.com/@zikaloai)
 
 ---
