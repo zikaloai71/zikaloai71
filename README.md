@@ -22,7 +22,7 @@
 
 ### 👨‍💻 About me
 
-- 🏗️ &nbsp;2.5+ years building **React + TypeScript** apps in production
+- 🏗️ &nbsp;3 years building **React + TypeScript** apps in production
 - 🕌 &nbsp;Currently freelancing on **Feh-Zikrokm**, an admin panel for a Quran mentorship platform
 - 🇦🇪 &nbsp;Worked remotely with a Dubai team since 2024 on donation and property platforms
 - 🧭 &nbsp;Spent a year as a **business analyst** on the same products — I read requirements differently now
